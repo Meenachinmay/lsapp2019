@@ -10,6 +10,7 @@
                     <a class="nav-item nav-link" href="/about">About</a>
                     <a class="nav-item nav-link" href="/services">Services</a>
                     <a class="nav-item nav-link" href="/posts">Blog</a>
+                    <a class="nav-item nav-link" href="/posts/create">Create New Post</a>
                 </div>
             </div>
         </div>

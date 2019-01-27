@@ -3,5 +3,5 @@
 
 @section('content')
     <h1>{{$title}}</h1>
-    <p>This is About page!!!</p>
+    <p>Chinmay Anand desu. Laravel Developer desu. yoroshiku onegaishiimasu.</p>
 @endsection
