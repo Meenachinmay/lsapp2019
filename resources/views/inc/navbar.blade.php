@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="/">{{config('app.name', 'LSAPP2019')}}</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,6 +9,7 @@
                     <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
                     <a class="nav-item nav-link" href="/about">About</a>
                     <a class="nav-item nav-link" href="/services">Services</a>
+                    <a class="nav-item nav-link" href="/posts">Blog</a>
                 </div>
             </div>
         </div>

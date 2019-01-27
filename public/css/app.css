@@ -10491,11 +10491,16 @@ a.text-dark:focus {
   }
 }
 
-#mainContainer {
+#maincontainer {
   margin-top: 10px;
 }
 
 #homePageJumbotron {
   background-color: #c2c2c2;
+  margin-top: 50px;
+}
+
+#EachPost {
+  margin-top: 10px;
 }
 
