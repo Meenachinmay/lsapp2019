@@ -2,8 +2,15 @@
 
 @section('content')
     <h1 id="EachPost">{{$post->title}}</h1>
+    <br>
+    <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <img style= "widht: 100%;" src="/storage/cover_images/{{$post->cover_image}}" class="card-img-top" alt="...">
+            </div>
+        </div>
     <div>
-        {!!$post->body!!}
+    <br>
+    {!!$post->body!!}
     </div>
     <hr>
     <small>Writtne On {{$post->created_at}}</small>
