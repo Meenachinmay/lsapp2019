@@ -4,9 +4,8 @@
 @section('content')
     <div class="jumbotron text-center" id="homePageJumbotron">
         <h1>{{$title}}</h1>
-        <p>Welcome to my first Laravel Project (Blog Post Project)</p>
-        <p> 
-            <a href="/login" class="btn btn-primary btn-lg" role="button">Login</a> <a href="/register" class="btn btn-success btn-lg" role="button">Register</a>
-        </p>
+        <br>
+        <br>
+        <h2>Blog Post Project</h2>
     </div>
 @endsection
