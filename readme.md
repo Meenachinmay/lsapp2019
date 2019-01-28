@@ -9,3 +9,4 @@ This is my first laravel work.
  3. How to add laravel-ckEditor
  4. How to add bootstrap messages
  5. How laravel validation works
+ 6. File Uploading
